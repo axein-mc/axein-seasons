@@ -1,0 +1,4 @@
+name: Seasons
+version: '1.0-SNAPSHOT'
+main: org.axein.seasons.SeasonsPlugin
+api-version: '1.21'
